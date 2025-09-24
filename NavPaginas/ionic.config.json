@@ -1,0 +1,7 @@
+{
+  "name": "NavPaginas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
